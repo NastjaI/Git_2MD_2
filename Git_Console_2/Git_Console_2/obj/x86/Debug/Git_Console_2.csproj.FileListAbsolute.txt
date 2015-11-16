@@ -1,0 +1,4 @@
+D:\Study\5th_semester\ASP_Vas\2nd_homework\Folder2\Git_Console_2\Git_Console_2\bin\Debug\Git_Console_2.exe
+D:\Study\5th_semester\ASP_Vas\2nd_homework\Folder2\Git_Console_2\Git_Console_2\bin\Debug\Git_Console_2.pdb
+D:\Study\5th_semester\ASP_Vas\2nd_homework\Folder2\Git_Console_2\Git_Console_2\obj\x86\Debug\Git_Console_2.exe
+D:\Study\5th_semester\ASP_Vas\2nd_homework\Folder2\Git_Console_2\Git_Console_2\obj\x86\Debug\Git_Console_2.pdb
