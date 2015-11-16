@@ -24,6 +24,16 @@ namespace Git_Console_2
                     z = x * y;
 
                     Console.WriteLine("\n x * y = " + z);
+
+                    if (z <= 0) Console.WriteLine(" No stars!");
+                    else
+                    {
+                        for (int star = 1; star <= z; star++)
+                        {
+                            Console.WriteLine(" " + star + ". *");
+                        }
+                    }
+
                 }
                 catch (Exception error)
                 {
