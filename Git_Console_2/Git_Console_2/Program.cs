@@ -9,7 +9,7 @@ namespace Git_Console_2
     {
         static void Main(string[] args)
         {
-            int x, y, counter = 0;
+            int x, y, z, counter = 0;
 
             for (int i = 0; i == counter; i++)
             {
@@ -21,6 +21,9 @@ namespace Git_Console_2
                     Console.Write(" Enter please second number: ");
                     y = Int32.Parse(Console.ReadLine());
 
+                    z = x * y;
+
+                    Console.WriteLine("\n x * y = " + z);
                 }
                 catch (Exception error)
                 {
